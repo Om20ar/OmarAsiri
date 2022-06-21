@@ -305,6 +305,12 @@ section {
     .main-content h3{
         font-size: 1.4em;
     }
+    .content-skills{
+        display: block;
+        justify-content: center;
+        margin-left: 40%;
+
+    }
     
 }
 
@@ -313,4 +319,5 @@ section {
         font-size: 10px;
      
     }
+    
 }
